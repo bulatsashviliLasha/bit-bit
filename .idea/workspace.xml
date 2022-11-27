@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="702fe3bf-1f22-4280-83e2-0d62265609bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TODO-2929.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/clap-808.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/clap-analog.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/clap-crushed.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/clap-fat.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/clap-slapper.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/clap-tape.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/cowbell-808.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/crash-808.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/crash-acoustic.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/crash-noise.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/crash-tape.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/hihat-808.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/hihat-acoustic01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/hihat-acoustic02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/hihat-analog.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/hihat-digital.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/hihat-dist01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/hihat-dist02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/hihat-electro.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/hihat-plain.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/hihat-reso.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/hihat-ring.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-808.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-acoustic01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-acoustic02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-big.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-classic.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-cultivator.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-deep.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-dry.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-electro01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-electro02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-floppy.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-gritty.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-heavy.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-newwave.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-oldschool.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-plain.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-slapback.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-softy.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-stomp.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-tape.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-thump.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-tight.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-tron.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-vinyl01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-vinyl02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/kick-zapper.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/openhat-808.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/openhat-acoustic01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/openhat-analog.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/openhat-slick.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/openhat-tight.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/perc-808.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/perc-chirpy.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/perc-hollow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/perc-laser.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/perc-metal.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/perc-nasty.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/perc-short.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/perc-tambo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/perc-tribal.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/perc-weirdo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/ride-acoustic01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/ride-acoustic02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/shaker-analog.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/shaker-shuffle.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/shaker-suckup.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-808.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-acoustic01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-acoustic02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-analog.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-big.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-block.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-brute.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-dist01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-dist02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-dist03.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-electro.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-lofi01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-lofi02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-modular.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-noise.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-pinch.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-punch.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-smasher.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-sumo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-tape.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-vinyl01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/snare-vinyl02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/tom-808.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/tom-acoustic01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/tom-acoustic02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/tom-analog.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/tom-chiptune.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/tom-fm.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/tom-lofi.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/tom-rototom.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allSounds/tom-short.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I56zLajUXRD7YaPmhF3YIZv8wA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="702fe3bf-1f22-4280-83e2-0d62265609bf" name="Changes" comment="" />
+      <created>1669459373352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669459373352</updated>
+      <workItem from="1669459377186" duration="46000" />
+      <workItem from="1669461563601" duration="8046000" />
+      <workItem from="1669479269205" duration="5308000" />
+      <workItem from="1669494150325" duration="8870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
